@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "delay.h": "c",
+        "stdio.h": "c",
+        "led.h": "c",
+        "ds18b20.h": "c",
+        "stm32f10x.h": "c",
+        "rtc.h": "c",
+        "timer.h": "c",
+        "usart.h": "c",
+        "sys.h": "c",
+        "oled.h": "c",
+        "exti.h": "c",
+        "beep.h": "c",
+        "key.h": "c",
+        "string.h": "c",
+        "dma.h": "c",
+        "esp8266.h": "c",
+        "while1.h": "c",
+        "menu.h": "c",
+        "stdlib.h": "c"
+    }
+}

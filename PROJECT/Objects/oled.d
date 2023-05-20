@@ -1,0 +1,14 @@
+.\objects\oled.o: ..\SYSTEM\OLED\oled.c
+.\objects\oled.o: ..\SYSTEM\OLED\oled.h
+.\objects\oled.o: ..\SYSLIB\stm32f10x.h
+.\objects\oled.o: ..\SYSLIB\core_cm3.h
+.\objects\oled.o: E:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\oled.o: ..\SYSLIB\system_stm32f10x.h
+.\objects\oled.o: ..\SYSTEM\SYS\sys.h
+.\objects\oled.o: ..\SYSTEM\SYS\sys.h
+.\objects\oled.o: ..\SYSTEM\LED\led.h
+.\objects\oled.o: ..\SYSTEM\BEEP\beep.h
+.\objects\oled.o: E:\MDK5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\oled.o: ..\SYSTEM\DELAY\delay.h
+.\objects\oled.o: E:\MDK5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\oled.o: E:\MDK5\ARM\ARMCC\Bin\..\include\math.h
